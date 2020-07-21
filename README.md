@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Network Security
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://twitter.com/iamha13
+-->
+
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
--->
+
