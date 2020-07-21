@@ -1,4 +1,4 @@
-### 👋 Here is what I am working on
+### 👋 Here are my Details.
 
 - 🔭 I’m currently working on ... Data Science and Cyber Security
 - 🌱 I’m currently learning ... Python3
