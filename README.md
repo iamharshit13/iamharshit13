@@ -1,7 +1,7 @@
 ### 👋 Hello World!.. Harshit here.
 
 - 🔭 I’m currently working on : Data Science and Cyber Security
-- 🌱 I’m currently learning : Python3
+- 🌱 I’m currently learning : Python3, Angular and Statistics 
 - 👯 I’m looking to collaborate on : Data Science 
 - 🤔 I’m looking for help with : Cyber Security
 - 💬 Ask me about : Anything
