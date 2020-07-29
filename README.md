@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on : Angular(by google), Data Science and Cyber Security
 - 🌱 I’m currently learning : Python3, Angular and Statistics 
 - 👯 I’m looking to collaborate on : Data Science 
-- 🤔 I’m looking for help with : ANgular
+- 🤔 I’m looking for help with : Angular
 - 💬 Ask me about : Anything
 
 
