@@ -15,14 +15,3 @@
 [twitter]: https://twitter.com/iamha13
 [instagram]: https://www.instagram.com/i_am_ha13/
 [linkedin]: https://linkedin.com/in/harshitagrawal13
-<!--
-**iamharshit13/iamharshit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
-
--->
