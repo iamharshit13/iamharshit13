@@ -7,11 +7,12 @@
 - 💬 Ask me about : Anything
 
 
-🐦 [twitter][twitter] **|**
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🐦 [Twitter][Twitter] **|**
+📷 [Instagram][Instagram] **|** 
+👔 [Linkedin][Linkedin] **|**
+📑 [Resume][Resume]
 
-
-[twitter]: https://twitter.com/iamha13
-[instagram]: https://www.instagram.com/i_am_ha13/
-[linkedin]: https://linkedin.com/in/harshitagrawal13
+[Twitter]: https://twitter.com/iamha13
+[Instagram]: https://www.instagram.com/i_am_ha13/
+[Linkedin]: https://linkedin.com/in/harshitagrawal13
+[Resume]: https://iamharshit13.github.io/iamharshit13/
