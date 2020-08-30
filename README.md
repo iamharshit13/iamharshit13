@@ -1,9 +1,9 @@
 ### 👋 Hello World!.. Harshit here.
 
-- 🔭 I’m currently working on : Angular(by google), Data Science and Cyber Security
+- 🔭 I’m currently working on : React, Firebase and Angular(by google)
 - 🌱 I’m currently learning : Python3, Angular and Statistics 
-- 👯 I’m looking to collaborate on : Data Science 
-- 🤔 I’m looking for help with : Angular
+- 👯 I’m looking to collaborate on : Data Science, Cyber Security and Development 
+- 🤔 I’m looking for help with : React
 - 💬 Ask me about : Anything
 
 
