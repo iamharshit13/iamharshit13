@@ -5,19 +5,16 @@
 [![](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamha13)
 [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Harshit-Agrawal-192)
 
-- 🔭 I’m currently working on : Competitive Coding, Data Structure and Algorithms
-- 🌱 I’m currently learning : Python3, Java and CyberSecurity
-- 👯 I’m looking to collaborate on : Cyber Security, Artificial Intelligence and Software Development
-- 🤔 I’m looking for help with : Job
-- 💬 Ask me about : Anything
+##  My GitHub Stats 📈: 
+
+Here is a glace of my __GitHub__ Summary. Thanks for stopping by. 
 
 
-<!-- 🐦 [Twitter][Twitter] **|**
-📷 [Instagram][Instagram] **|** 
-👔 [Linkedin][Linkedin] **|**
-📑 [Resume][Resume]
+![Harshit Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=blue-green)
 
-[Twitter]: https://twitter.com/iamha13
-[Instagram]: https://www.instagram.com/i_am_ha13/
-[Linkedin]: https://linkedin.com/in/harshitagrawal13
-[Resume]: https://drive.google.com/file/d/1kFzpLrewSjbU5mbeMldzeP8RZdsThKss/view?usp=sharing -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=blue-green&langs_count=10)](https://github.com/suhasmaddali/github-readme-stats)
+
+
+<!-- ##  Contact Information
+
+&emsp;&emsp; 📫 __Email:__ abc@gmail.com -->
