@@ -7,7 +7,7 @@
 
 ##  My GitHub Stats 📈: 
 
-Here is a glace of my __GitHub__ Summary. Thanks for stopping by. 
+Here is a glance of my __GitHub__ Summary. Thanks for stopping by. 
 
 
 ![Harshit Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=blue-green)
