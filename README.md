@@ -1,20 +1,46 @@
-<h1> 👋 Hello World!.. Harshit Agrawal here. </h1> 
+<h1 align="center">👋 Hello World! I'm Harshit Agrawal</h1>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitagrawal13)
-[![](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white)]( https://www.instagram.com/i_am_ha13/)
-[![](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamha13)
-[![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Harshit-Agrawal-192)
+<p align="center">
+  <a href="https://linkedin.com/in/harshitagrawal13">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/i_am_ha13/">
+    <img src="https://img.shields.io/badge/Instagram-1DB954?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/iamha13">
+    <img src="https://img.shields.io/badge/Twitter-1DB954?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://quora.com/profile/Harshit-Agrawal-192">
+    <img src="https://img.shields.io/badge/Quora-1DB954?style=for-the-badge&logo=quora&logoColor=white">
+  </a>
+</p>
 
-##  My GitHub Stats 📈: 
+---
 
-Here is a glance of my __GitHub__ Summary. Thanks for stopping by. 
+### 🚀 About Me  
+💻 **Senior Software Engineer | AI & Data Enthusiast**  
+🎯 Passionate about **Generative AI, Cyber Security, Machine Learning, and Data Engineering**  
+🛠 Skilled in **Python, Snowflake, AWS, StreamSets, Docker, and Prompt Engineering**  
+📈 Exploring **AI-powered automation & entrepreneurship**  
 
+---
 
-![Harshit Agrawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=blue-green)
+## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=blue-green&langs_count=10)](https://github.com/suhasmaddali/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=tokyonight&icon_color=1DB954&title_color=1DB954&text_color=ffffff&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=tokyonight&title_color=1DB954&text_color=ffffff&bg_color=0d1117&langs_count=10" height="165" />
+</p>
 
+---
 
-<!-- ##  Contact Information
+## 🔥 Streak Stats  
 
-&emsp;&emsp; 📫 __Email:__ abc@gmail.com -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshit13&theme=tokyonight&fire=1DB954&ring=1DB954&currStreakLabel=1DB954&currStreakNum=1DB954&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0d1117" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- ## 📫 Contact  
+📩 Email: abc@gmail.com -->
