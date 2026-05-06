@@ -1,83 +1,86 @@
-<h1 align="center">👋 Hi, I'm Harshit Agrawal</h1>
-<h3 align="center">Senior Software Engineer | GenAI & Distributed Systems | Open to Remote Roles 🌍</h3>
+<h1 align="center">Harshit Agrawal</h1>
+<h3 align="center">Senior Software Engineer | AI Systems, Backend, Distributed Data</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshitagrawal13">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:harshitagrawal1398@gmail.com">
-    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=720&lines=Building+production-grade+GenAI+systems;Designing+scalable+backend+and+data+platforms;Turning+LLM+ideas+into+reliable+products" alt="Typing intro"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshitagrawal13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:harshitagrawal1398@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20Backend%20%7C%20Data-black?style=for-the-badge" alt="Focus"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamharshit13&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Senior Software Engineer with **4+ years experience** building scalable backend, data, and **production-grade Generative AI systems**.
+I build AI-powered products that are fast, scalable, and production ready.
 
-🔹 Built enterprise GenAI platforms using GPT-4, LangChain & AWS Bedrock
-🔹 Designed distributed systems, APIs & high-scale data pipelines
-🔹 Experience across AWS, Azure, Snowflake & real-time systems
-🔹 Passionate about AI-powered automation & scalable architecture
-
-🌍 **Actively seeking remote global opportunities (AI / Backend / Data Engineering)**
+- 4+ years of experience across backend engineering, distributed systems, and data platforms
+- Built enterprise GenAI systems using GPT models, LangChain, AWS Bedrock, and RAG pipelines
+- Strong in API architecture, real-time pipelines, reliability, and cloud-native deployment
+- Interested in high-impact roles across AI engineering, backend platforms, and developer tooling
 
 ---
 
-## 🧠 Core Expertise
+## AI + Engineering Stack
 
-**Languages & Backend**
-Python • FastAPI • Django • REST APIs • Microservices • System Design
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,aws,azure,docker,kubernetes,postgres,redis,kafka,githubactions,tensorflow" />
+</p>
 
-**Generative AI & LLMs**
-GPT-4 • LangChain • LlamaIndex • RAG • AI Agents • Prompt Engineering
-Vector DBs • LLM orchestration • OpenAI • Bedrock
+**AI/LLM**
+OpenAI API, GPT-4 class models, LangChain, LlamaIndex, RAG, vector search, AI agents, prompt engineering
 
-**Data Engineering**
-Snowflake • Kafka • StreamSets • ETL Pipelines • Real-time data
-SAP integrations • Distributed data systems
+**Backend + Data**
+Python, FastAPI, Django, microservices, Kafka, Snowflake, ETL/ELT, stream processing, distributed architecture
 
-**Cloud & DevOps**
-AWS • Azure • Docker • Kubernetes • CI/CD • GitHub Actions
-
----
-
-## 🏗 Key Achievements
-
-✔ Built GenAI SaaS platform automating **90% enterprise workflows**
-✔ Improved LLM accuracy by **35% via RAG + prompt optimization**
-✔ Developed 15+ real-time ETL pipelines (Snowflake + Kafka)
-✔ Achieved **99.9% reliability** across cloud systems
-✔ Reduced cloud costs by **20%** via performance optimization
+**Cloud + Platform**
+AWS, Azure, Docker, Kubernetes, CI/CD, observability, cost optimization
 
 ---
 
-## 🚀 Featured Projects
+## Impact Snapshot
 
-### 🔹 GenAI Enterprise Automation Platform
-
-Production-grade LLM system using GPT-4, LangChain & AWS Bedrock
-Automated enterprise workflows & document intelligence
-
-### 🔹 Distributed Recommendation System
-
-Microservices-based scalable recommendation engine
-Stack: Python, Kafka, Redis, Docker, Kubernetes
-
-### 🔹 E-commerce Image Intelligence
-
-ML-powered product detection & scraping system
-Stack: Python, TensorFlow, Vision API
+- Automated up to 90% of enterprise workflows with a GenAI SaaS platform
+- Improved LLM response quality by ~35% using retrieval and prompt optimization
+- Shipped 15+ real-time data pipelines for high-volume processing
+- Maintained 99.9% reliability across production systems
+- Reduced infrastructure costs by ~20% through architecture and performance tuning
 
 ---
 
+## GitHub Analytics
 
-## 🌍 Open To Opportunities
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshit13&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
-* Remote Senior Backend Roles
-* AI/LLM Engineer Roles
-* Data & Platform Engineering
-* Global product startups
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
-📩 Reach out via LinkedIn or email — always open to interesting tech conversations.
+---
+
+## Current Focus
+
+- Building reliable AI copilots and internal automation agents
+- Designing RAG systems with better grounding, evaluation, and observability
+- Scaling backend APIs and event-driven platforms for AI workloads
+
+---
+
+## Open To
+
+- Senior Backend Engineer roles
+- AI/LLM Engineer roles
+- Platform/Data engineering opportunities
+- Remote-first product teams
+
+Reach me via [LinkedIn](https://linkedin.com/in/harshitagrawal13) or `harshitagrawal1398@gmail.com`.
