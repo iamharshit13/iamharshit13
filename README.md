@@ -171,7 +171,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=iamharshit13&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=iamharshit13&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
