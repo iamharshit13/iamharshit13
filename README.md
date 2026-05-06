@@ -55,15 +55,50 @@
 
 <div align="center">
 
-| Layer | Technologies |
-|---|---|
-| **LLM Providers** | OpenAI GPT-4o · Anthropic Claude · AWS Bedrock · Azure OpenAI · Groq |
-| **Frameworks** | LangChain · LangGraph · LlamaIndex · CrewAI · Haystack |
-| **Patterns** | RAG · Agentic AI · ReAct · Tool-Use · Multi-Agent Orchestration |
-| **Vector & Search** | Pinecone · Weaviate · pgvector · Qdrant · Hybrid Search (BM25 + Embeddings) |
-| **Embeddings** | OpenAI `text-embedding-3` · Cohere · HuggingFace MTEB models |
-| **Observability** | LangSmith · Arize Phoenix · Weights & Biases · Tracing & Evals |
-| **Prompt Ops** | Structured outputs · DSPy · Prompt versioning · A/B eval pipelines |
+<h3>LLM Providers</h3>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-302b63?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/AWS-Bedrock-24243e?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/Azure-OpenAI-5B21B6?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/Groq-Inference-A78BFA?style=for-the-badge&logo=groq&logoColor=white&labelColor=A78BFA" />
+</p>
+
+<h3>Frameworks & Agent Orchestration</h3>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/LangGraph-302b63?style=for-the-badge&logo=graphql&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/LlamaIndex-5B21B6?style=for-the-badge&logo=meta&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/CrewAI-24243e?style=for-the-badge&logo=crewunited&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/Haystack-A78BFA?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=A78BFA" />
+</p>
+
+<h3>Core AI Patterns</h3>
+<p>
+  <img src="https://img.shields.io/badge/RAG-A78BFA?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/ReAct-302b63?style=for-the-badge&logo=react&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/Tool%20Use-24243e?style=for-the-badge&logo=googleassistant&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/Multi--Agent-5B21B6?style=for-the-badge&logo=probot&logoColor=white&labelColor=5B21B6" />
+</p>
+
+<h3>Retrieval, Vectors & Embeddings</h3>
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Weaviate-302b63?style=for-the-badge&logo=weaviate&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/pgvector-24243e?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/Qdrant-5B21B6?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/text--embedding--3-A78BFA?style=for-the-badge&logo=openai&logoColor=white&labelColor=A78BFA" />
+</p>
+
+<h3>Observability & PromptOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/LangSmith-7C3AED?style=for-the-badge&logo=langchain&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Arize%20Phoenix-302b63?style=for-the-badge&logo=phoenixframework&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/W%26B-5B21B6?style=for-the-badge&logo=weightsandbiases&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/Structured%20Outputs-24243e?style=for-the-badge&logo=json&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/Prompt%20Versioning-A78BFA?style=for-the-badge&logo=git&logoColor=white&labelColor=A78BFA" />
+</p>
 
 </div>
 
@@ -71,18 +106,43 @@
 
 ## ⚙️ Backend & Data Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,kafka,aws,azure,docker,kubernetes,githubactions,terraform" />
-</p>
-
 <div align="center">
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | Python · FastAPI · Django · REST · GraphQL · gRPC · Microservices |
-| **Data Platform** | Snowflake · dbt · Airflow · Spark · Kafka · ETL/ELT · Stream Processing |
-| **Cloud & Infra** | AWS (Lambda, ECS, S3, SQS, Bedrock) · Azure · Docker · Kubernetes · Terraform |
-| **Reliability** | CI/CD · OpenTelemetry · Prometheus · Grafana · Distributed Tracing |
+<h3>Backend Engineering</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/FastAPI-302b63?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/Django-5B21B6?style=for-the-badge&logo=django&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/GraphQL-24243e?style=for-the-badge&logo=graphql&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/gRPC-A78BFA?style=for-the-badge&logo=grpc&logoColor=white&labelColor=A78BFA" />
+</p>
+
+<h3>Data Platform</h3>
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-7C3AED?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/dbt-302b63?style=for-the-badge&logo=dbt&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/Airflow-5B21B6?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/Spark-24243e?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/Kafka-A78BFA?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=A78BFA" />
+</p>
+
+<h3>Cloud & Infrastructure</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazon&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Azure-302b63?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/GCP-A78BFA?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Docker-5B21B6?style=for-the-badge&logo=docker&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/Kubernetes-24243e?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=24243e" />
+</p>
+
+<h3>Reliability & Delivery</h3>
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=7C3AED" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-302b63?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=302b63" />
+  <img src="https://img.shields.io/badge/Prometheus-5B21B6?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=5B21B6" />
+  <img src="https://img.shields.io/badge/Grafana-24243e?style=for-the-badge&logo=grafana&logoColor=white&labelColor=24243e" />
+  <img src="https://img.shields.io/badge/CI%2FCD-A78BFA?style=for-the-badge&logo=git&logoColor=white&labelColor=A78BFA" />
+</p>
 
 </div>
 
