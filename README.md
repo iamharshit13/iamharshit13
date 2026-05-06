@@ -58,12 +58,12 @@ AWS, Azure, Docker, Kubernetes, CI/CD, observability, cost optimization
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamharshit13&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamharshit13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=iamharshit13&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
 
 ---
