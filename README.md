@@ -163,12 +163,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamharshit13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamharshit13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=iamharshit13&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamharshit13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=iamharshit13&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak" />
 </p>
 
 ---
